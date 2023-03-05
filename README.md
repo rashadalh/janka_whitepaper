@@ -1,6 +1,6 @@
 Hi there! This repo contains the whitepaper for Janka, a credit score for DeFi that is fully transparent and decentralized!  
 
-In this repo you will find the following:
+In this repo you will find the following:  
 (1) "Janka\_Protocol.pdf" -- Whitepaper for our Protocol  
 (2) "whitepaper.tex" -- Raw LaTeX file used to generate our whitepaper  
 (3) "p85.png" -- simulation of Janka score with 85\% probability of repayment  
