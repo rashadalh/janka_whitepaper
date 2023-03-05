@@ -7,7 +7,7 @@ In this repo you will find the following:
 (4) "p15.png" -- simulation of Janka score with 15\% probability of repayment  
 (5) "splitprob.png" -- simulation of Janka score with 85\% prob good first half, 15\% prob good on the second half.  
 
-If your name is Huma Finance, and you are reading this README file, we'd also like to let you know that we are submitting this whitepaper for the "Build new signal adapters" bounty!  
+**If your name is Huma Finance, and you are reading this README file, we'd also like to let you know that we are submitting this whitepaper for the "Build new signal adapters" bounty!**  
 
 Janka Score produces a signal about a borrower's creditworithiness by tracking the probability of a borrower, given by a wallet address, to return capital and keep loans healthy on DeFi lending protocols. At the time of ETH Denver, this only covers AAVE V3 on ethereum, however this could very quickly be expanded to cover many other protocols accross multiple chains.  
 
